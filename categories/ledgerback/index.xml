@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ledgerback on </title>
+    <link>/categories/ledgerback/</link>
+    <description>Recent content in Ledgerback on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/ledgerback/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcements</title>
+      <link>/posts/intro/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/intro/</guid>
+      <description>This blog is for announcements, and (re-)posting updates on Ledgerback Research and the work of it&amp;rsquo;s members.</description>
+    </item>
+    
+  </channel>
+</rss>
