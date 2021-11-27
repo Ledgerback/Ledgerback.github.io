@@ -5,35 +5,17 @@
     <link>/</link>
     <description>Recent content in Introduction on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a New Theme</title>
-      <link>/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>October 2021 Update</title>
+      <link>/posts/update_october/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction#This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static#Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Announcements</title>
-      <link>/posts/intro/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/intro/</guid>
-      <description>This blog is for announcements, and (re-)posting updates on Ledgerback Research and the work of it&amp;rsquo;s members.</description>
+      <guid>/posts/update_october/</guid>
+      <description>October Update: Updates on the Observatory, Distroid, Ledgerback Frontier Portal, General Meeting, and Ledgerback Frontier Awards#By Charles Adjovu
+Observatory#Glossary#The first preview of the basic Glossary of Ledgerback Frontier terms directory is now available.
+Please find it here and let us know your thoughts!
+People#The first preview of the basic People of the Ledgerback Frontier directory is now available.</description>
     </item>
     
     <item>
@@ -46,37 +28,14 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo#Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs#Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/docs/mainsito/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/about/</guid>
-      <description>About#Ledgerback Research is a 501(c)(3) worker cooperative and and decentralized research lab enacting the SDCI, a model for a knowledge ecosystem.
-We study and build convergence (connection and integration) (emphasis on the alternative/decentralized internet), democratic ownership models, social technology, citizen-expertise, and tools for thought (TfT).
-We produce open-access research (similarly to an academic or industry lab), including scientific publications, reports, blog posts, educational videos, open-source software, and demonstrations, and with these nurture the growth of researchers.</description>
+      <description>About#Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association for advancing knowledge in the Decentralized Web (DWeb) and related fields (i.e., the Ledgerback Frontier), through research, education, technology, monitoring, and advocacy.
+Our outputs from our work can include scientific publications, reports, blog posts, open educational resources, trainings, tools, methods, platforms, open-source software, open datasets, newsletters, demonstrations, and more.
+Members# Charles Adjovu  You can find Charles&amp;rsquo;s digital garden here   Jack Smye Marvin Roman Joseph Tobing Darick Velasco Joshua Davila  Advisory Board# Jan Zygmuntowski Dr.</description>
     </item>
     
     <item>
@@ -90,34 +49,13 @@ We produce open-access research (similarly to an academic or industry lab), incl
     
     <item>
       <title></title>
-      <link>/docs/mainsito/community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/community/</guid>
-      <description>Community#Ledgerback Research is a community for genuinely curious people who are interested in getting better at learning, sharing, researching, and building democratic ownership models, networked-scholarship, networked-culture, social technology, and tools for thought (TfT) (&amp;ldquo;Topics&amp;rdquo;).
-To that end, the community building aspect of Ledgerback Research is creating a place to: 1) develop and train relevant skills for maturing into a researcher or maker, 2) find kindred spirits, friends and collaborators along the way, 3) produce serious research, 4) educate each other on interesting topics, and 5) give back to society.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/docs/mainsito/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/donate/</guid>
-      <description>Donate to the Ledgerback Digital Commons Research Cooperative#Support Ledgerback Research&amp;rsquo;s work on:
- Educational content Research Tools Events  Credit/debit card#If you are an individual who would like to support our work, you can make a donation directly:
+      <description>Donate to the Ledgerback Digital Commons Research Cooperative#Support the LDCRC&amp;rsquo;s work on:
+ Educational content Research Tools Events Advocacy Trainings  Credit/debit card#If you are an individual who would like to support our work, you can make a donation directly:
  Open Collective Donorbox  Direct Cryptocurrency Donation# BTC: TBA ETH: TBA  Afterward, contact us so we can thank you and send you a receipt for your records and tax purposes — and let us know us know if you&amp;rsquo;d like us to publicly thank you for your donation!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/education/</guid>
-      <description>Education#Our members create and curate educational materials on topics they find of interest.
-Generally, these materials are created for self-study or summation of a member&amp;rsquo;s learning journey, or to be used by an instructor in their class.
-Slides# Introduction to Commons-based Peer Production Micro-course Decentralized and Open Thinking Micro-course: Part 1 Introduction to Platform Cooperativism Micro-course: Part 1  School#The Coop plans to</description>
     </item>
     
     <item>
@@ -126,7 +64,17 @@ Slides# Introduction to Commons-based Peer Production Micro-course Decentrali
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/events/</guid>
-      <description>Events#Meetings#Reading Group#We host a monthly meeting on the second Saturday of each month at 9 AM PST that covers readings in the reading group, primarily to learn about democratic ownership models, networked-scholarship, social technology, and tools for thought (TfT) (&amp;ldquo;Topics&amp;rdquo;) on Discord.Colloquium#We host a monthly meeting on the third Saturday of each month at 9 AM PST to discuss research updates and hear presentations on research, workflows, and projects on Discord.</description>
+      <description>Events#Ongoing Events# Monthly Meetings every first Saturday of the month on Discord covering updates on the LDCRC and members.  Past Events# Creating Educational Materials on Platform Cooperativism  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/mainsito/faqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/faqs/</guid>
+      <description>Frequntly Asked Questions (FAQs)#Answered#1. What is social technology?... Social technology is the hardware and software that determine how we organize and collectively live our lives. But it is also the the ideas, knowledge, economics, and institutions that drive culture and sustain societies. And it is the way this knowledge is embedded in the technologies we use.
+ 2.</description>
     </item>
     
     <item>
@@ -135,7 +83,8 @@ Slides# Introduction to Commons-based Peer Production Micro-course Decentrali
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/flagship-project/</guid>
-      <description>Flagship project#This page is under development.</description>
+      <description>Projects#These member-led projects are currently under development:
+ Observatory: An ecosystem mapping of people, events, language, concepts, databases, media, organizations, and more at the Ledgerback Frontier; Ledgerback Frontier Portal: A gateway to the Ledgerback Frontier (i.e., the Decentralized Web (DWeb) and related fields). The aim of the portal is to help people learn about and discover the Ledgerback Frontier through self-study resources (e.g., datasets, flashcards, quizzes); Bikestream: A project to encourage people to realize the value and benefits of managing their mobility data and micro-mobility vehicles, individually and collectively; DGov Score Framework: A project to develop a theoretical background on digital organizations and methods and tools for analyzing organizational concepts; Laplace: A project to develop an expertise network, knowledge graph, and content aggregator to encourage innovation and learning at the Ledgerback Frontier LedgerbackHub: a content library of thoughts and insights from members and friends on the Ledgerback Frontier; and Distroid: a monthly newsletter, with a focus on the convergence (connection and integration) of the decentralized web and related fields (Web3, Platform Cooperatives, etc.</description>
     </item>
     
     <item>
@@ -144,7 +93,10 @@ Slides# Introduction to Commons-based Peer Production Micro-course Decentrali
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/jobs/</guid>
-      <description>Jobs#Find jobs and opportunities here from across the convergent alternative internet (i.e., decentralized web).</description>
+      <description>Jobs#Find jobs and other opportunities here from across the Ledgerback Frontier.
+Job Boards#Here you will find links to job boards.
+ CryptoJobsList   The Web’s Biggest List of Cryptocurrency Jobs and Blockchain Jobs
+ As the description suggests, this is a job board for Web3 (cryptocurrency, blockchain, etc.) jobs. This one is updated frequently and covers a wide array of positions so you should be able to find a job that fits your skills and knowledge.</description>
     </item>
     
     <item>
@@ -158,27 +110,11 @@ Slides# Introduction to Commons-based Peer Production Micro-course Decentrali
     
     <item>
       <title></title>
-      <link>/docs/mainsito/library/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/library/</guid>
-      <description>Library#Annotations#We store our annotations in Hypothesis.
-Join our Hypothesis group and annotate documents across the web!
-Bibliography#We store our bibliographies in Zotero.
-Join our Zotero group and start adding to our ever-growing bibliography!
-GitHub#Find our curated lists and digital gardens on GitHub.
-Observatory#Work-in-progress
-Glossary#Work-in-progress
-Tools#Work-in-progress</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/docs/mainsito/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/members/</guid>
-      <description>Members# Charles Adjovu Jack Smye Marvin Roman Joseph Tobing Darick Velasco Joshua Davila  </description>
+      <description>Members# Charles Adjovu  You can find Charles&amp;rsquo;s digital garden here   Jack Smye Marvin Roman Joseph Tobing Darick Velasco Joshua Davila  </description>
     </item>
     
     <item>
@@ -187,9 +123,8 @@ Tools#Work-in-progress</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/membership/</guid>
-      <description>Membership#To become a member, you must:
- complete our membership form, bring your own specific project in mind and with a commitment to presenting progress updates on it, and complete our orientation program.  Once we process your membership request as per our rules, you will receive an email from us.
-We do not have any membership fees. However, members are subject to a non-refundable annual fee of $100.</description>
+      <description>Membership#This page is under development as we update our Bylaws
+If you are interested in joining our flock, please send an email to ledgerback@gmail.com for more details.</description>
     </item>
     
     <item>
@@ -198,22 +133,27 @@ We do not have any membership fees. However, members are subject to a non-refund
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/merchandise/</guid>
-      <description>Merchandise#Represent your industry with the LDCRC.
-100% of proceeds will fund individuals &amp;amp; institutions through grants for fees, travel, research, projects, events, publishing &amp;amp; promotions.
-  Redbubble (Merchandise)
- Shirts Stickers Hoodie    Teespring (Merchandise)
-  </description>
+      <description>Merchandise#Support the LDCRC by purchasing some LDCRC-branded merchandise.
+ Redbubble  Shirts Stickers Hoodies   Teespring  Stickers Shirts Hoodies    </description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/networks/</link>
+      <link>/docs/mainsito/outputs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/networks/</guid>
-      <description>Networks#Mentorship#Join our alternative internet mentorship network and start mentoring others or find a mentor to help your career.
-Send an email to ledgerback@gmail.com answering these questions:
- Are you trying to become or find a mentor? Why are you interested in the mentorship network?  Consultants#Join our alternative internet consultants network and we&amp;rsquo;ll send relevant work requests your way. Alternatively, let us know what kind of project you have to tackle and our team will do our best to match you with expert consultants in our network.</description>
+      <guid>/docs/mainsito/outputs/</guid>
+      <description>Outputs#Papers# Cooperative, Ledgerback, A Preliminary Review of Blockchain in the Music Industry (November 6, 2018). Available at SSRN: https://ssrn.com/abstract=3280838 or http://dx.doi.org/10.2139/ssrn.3280838  Musicians in the music industry are the primary content creators, and yet, have little to no control over their musical works after assigning their rights and management to third party intermediaries such as record labels, performance rights organizations, and publishers. Before the rise of file sharing platforms in the 1990s, this scenario was the norm for all musicians as record labels controlled nearly all facets of the music industry from musician funding to distribution and even royalty payment collection.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/mainsito/portal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/portal/</guid>
+      <description>Ledgerback Frontier Portal#The Ledgerback Frontier Portal is a gateway to the Ledgerback Frontier (i.e., the Decentralized Web (DWeb) and related fields). The aim of the portal is to help people learn about and discover the Ledgerback Frontier through self-study resources.
+You can find the Frontier Portal’s repository for self-study resources on Web3 here.</description>
     </item>
     
     <item>
@@ -222,21 +162,10 @@ Send an email to ledgerback@gmail.com answering these questions:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/publications/</guid>
-      <description>Publications#Writing#You can find our writings on:
- Medium LedgerbackHub  Newsletters#We have two (2) newsletters:
- Ledgerback Cooperative Distroid  Podcasts#You can find our podcast on Anchor.
-Editorial Offer#Our editorial offer includes
- Access to all our archives and database. The opportunity to participate in our surveys and interact with our staff.  With the $100 of your subscription, you finance:</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/questions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/questions/</guid>
-      <description>Questions#Answered#1. What is social technology?... Social technology is the hardware and software that determine how we organize and collectively live our lives. But it is also the the ideas, knowledge, economics, and institutions that drive culture and sustain societies. And it is the way this knowledge is embedded in the technologies we use.
- 2. What is a Tool for Thought(TfT)?</description>
+      <description>Publications#Ongoing#We have three ongoing publications:
+ LedgerbackHub, Distroid, and Ledgerback Podcast.  Our long-form writing is on the LedgerbackHub, but may also be found on Medium
+The Distroid newsletter is a monthly newsletter, with a focus on the convergence (connection and integration) of the decentralized web and related fields (Web3, Platform Cooperatives, etc.) (i.e., the fields of the Ledgerback Frontier).
+The LedgerbackHub is a content library of thoughts and insights from members and friends on the Ledgerback Frontier.</description>
     </item>
     
     <item>
@@ -245,18 +174,32 @@ Editorial Offer#Our editorial offer includes
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/research/</guid>
-      <description>Research#Approach#Under development.
-Convergent# Convergence research is a means of solving vexing research problems, in particular, complex problems focusing on societal needs. It entails integrating knowledge, methods, and expertise from different disciplines and forming novel frameworks to catalyze scientific discovery and innovation. Convergence research is related to other forms of research that span disciplines - transdisciplinarity, interdisciplinarity, and multidisciplinarity. It is the closest to transdisciplinary research which was historically viewed as the pinnacle of evolutionary integration across disciplines.</description>
+      <description>Research#Here you will find requests for research and early-stage concepts, and some helpful approaches to researching the Ledgerback Frontier.
+Approach#Here are a list of research approaches that can help navigate the Ledgerback Frontier:
+ Convergent Research Exploratory Research  Convergent Research# Convergence research is a means of solving vexing research problems, in particular, complex problems focusing on societal needs. It entails integrating knowledge, methods, and expertise from different disciplines and forming novel frameworks to catalyze scientific discovery and innovation.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/services/</link>
+      <link>/docs/mainsito/trainings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/services/</guid>
-      <description>Services#We offer brainstorming and ideation services for products and collectives, question atomization, content writing, and publishing services.
-You can find our services on Open Collective.</description>
+      <guid>/docs/mainsito/trainings/</guid>
+      <description>Trainings#Our members from time to time offer training sessions on a matter of their interest on the Ledgerback Frontier.
+2022#Our expected training programs for 2022 are:
+ Understanding the Ledgerback Frontier  Understanding the Ledgerback Frontier#TBA</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/mainsito/volunteer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/volunteer/</guid>
+      <description>Volunteer Board#If you would like to help out, please refer to the volunteer board for tasks we need help with.
+If you are interested in helping, please add your name and Twitter handle to the table via the link above.
+Alternatively, you can fill out one of the roles below:
+ Data Entry Video Editor Audio Editor Interviewer Article Summarizer  </description>
     </item>
     
     <item>
