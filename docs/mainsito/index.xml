@@ -11,17 +11,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/about/</guid>
-      <description>About#Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association for advancing knowledge in the Decentralized Web (DWeb) and related fields (i.e., the Ledgerback Frontier), through research, education, technology, monitoring, and advocacy.
-Our outputs from our work can include scientific publications, reports, blog posts, open educational resources, trainings, tools, methods, platforms, open-source software, open datasets, newsletters, demonstrations, and more.
-Members# Charles Adjovu  You can find Charles&amp;rsquo;s digital garden here   Jack Smye Marvin Roman Joseph Tobing Darick Velasco Joshua Davila  Advisory Board# Jan Zygmuntowski Dr.</description>
+      <description>About#Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association coalescing a socially-aware expert community to advance knowledge in the decentralized web and related fields (i.e., the Ledgerback Frontier, the space between the current and the future ages of humanity).
+Our outputs from our work can include scientific publications, reports, blog posts, open educational resources, trainings, tools, methods, platforms, open-source software, open datasets, newsletters, demonstrations, and more.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/citations-mentions/</link>
+      <link>/docs/mainsito/citations-and-mentions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/citations-mentions/</guid>
+      <guid>/docs/mainsito/citations-and-mentions/</guid>
       <description>Citations &amp;amp; Mentions#Citations# Data Cooperatives, P2P Foundation Wiki  Mentions#October 2020#Journal Article | MDPI Sustainability#Calzada I., Platform and Data Co-Operatives amidst European Pandemic Citizenship. Sustainability 2020, 12, 8309.</description>
     </item>
     
@@ -32,8 +31,8 @@ Members# Charles Adjovu  You can find Charles&amp;rsquo;s digital garden here
       
       <guid>/docs/mainsito/donate/</guid>
       <description>Donate to the Ledgerback Digital Commons Research Cooperative#Support the LDCRC&amp;rsquo;s work on:
- Educational content Research Tools Events Advocacy Trainings  Credit/debit card#If you are an individual who would like to support our work, you can make a donation directly:
- Open Collective Donorbox  Direct Cryptocurrency Donation# BTC: TBA ETH: TBA  Afterward, contact us so we can thank you and send you a receipt for your records and tax purposes — and let us know us know if you&amp;rsquo;d like us to publicly thank you for your donation!</description>
+ Educational content Research Tools Events Advocacy Trainings  How to donate#Credit/debit card#If you are an individual who would like to support our work, you can make a donation directly:
+ Open Collective, Donorbox, or Every.org.  Direct Cryptocurrency Donation#You can directly donate cryptocurrency to the LDCRC on Every.</description>
     </item>
     
     <item>
@@ -72,9 +71,7 @@ Members# Charles Adjovu  You can find Charles&amp;rsquo;s digital garden here
       
       <guid>/docs/mainsito/jobs/</guid>
       <description>Jobs#Find jobs and other opportunities here from across the Ledgerback Frontier.
-Job Boards#Here you will find links to job boards.
- CryptoJobsList   The Web’s Biggest List of Cryptocurrency Jobs and Blockchain Jobs
- As the description suggests, this is a job board for Web3 (cryptocurrency, blockchain, etc.) jobs. This one is updated frequently and covers a wide array of positions so you should be able to find a job that fits your skills and knowledge.</description>
+You can find a list of job boards in the Observatory&amp;rsquo;s JobBoards table</description>
     </item>
     
     <item>
@@ -102,17 +99,20 @@ Job Boards#Here you will find links to job boards.
       
       <guid>/docs/mainsito/membership/</guid>
       <description>Membership#This page is under development as we update our Bylaws
-If you are interested in joining our flock, please send an email to ledgerback@gmail.com for more details.</description>
+Become a member of the LDCRC today!#All members have a voice in shaping the priorities of the LDCRC, sharing views and electing the Board of Directors. When you join as a Member, your support will help us to continue our current activities and establish amazing new projects.
+Membership opens up the opportunity to deeply engage with the LDCRC in other ways; be the first to hear about our exciting projects, access exclusive information and resources, and take advantage of member rates on services and goods.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/merchandise/</link>
+      <link>/docs/mainsito/office-hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/merchandise/</guid>
-      <description>Merchandise#Support the LDCRC by purchasing some LDCRC-branded merchandise.
- Redbubble  Shirts Stickers Hoodies   Teespring  Stickers Shirts Hoodies    </description>
+      <guid>/docs/mainsito/office-hours/</guid>
+      <description>Office Hours#LDCRC&amp;rsquo;s weekly, pro-bono Office Hours provide the opportunity to receive one-on-one help with finding existing research, strategy, and/or general questions. Office Hours are held via Jitsi or Sprout video conferencing.
+Librarians#Contact Charles Adjovu for help on finding existing research on a topic under the Ledgerback Frontier.
+Charles&amp;rsquo;s Hours#Saturday &amp;amp; Sunday, 3pm–10pm PST Max time per person: 30 mins
+Good questions for Charles:</description>
     </item>
     
     <item>
@@ -130,7 +130,7 @@ If you are interested in joining our flock, please send an email to ledgerback@g
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/portal/</guid>
-      <description>Ledgerback Frontier Portal#The Ledgerback Frontier Portal is a gateway to the Ledgerback Frontier (i.e., the Decentralized Web (DWeb) and related fields). The aim of the portal is to help people learn about and discover the Ledgerback Frontier through self-study resources.
+      <description>Ledgerback Frontier Portal#The Ledgerback Frontier Portal is a gateway to the thought spaces at the Ledgerback Frontier, the space between the present and future ages of humanity, exemplified by the Decentralized Web (DWeb) and related fields. The aim of the portal is to help people understand how people are thinking or conceptualizing these fields through self-study resources (primarily, through foundational reading lists).
 You can find the Frontier Portal’s repository for self-study resources on Web3 here.</description>
     </item>
     
@@ -148,6 +148,16 @@ The LedgerbackHub is a content library of thoughts and insights from members and
     
     <item>
       <title></title>
+      <link>/docs/mainsito/research-advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/research-advice/</guid>
+      <description>Research Advice#Some resources to help you get started with independent research and researching the Ledgerback Frontier.
+Guides# Open Scientist Handbook Internet Search Tips from Gwern.net Social Science Research Guide by Dr. Robert V. Labaree Introduction to College Research  Tools# Kausalflow tool directory  Also refer to the Ledgerback Scholar Toolbox and Guide (LSTG).</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/docs/mainsito/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -159,13 +169,26 @@ Approach#Here are a list of research approaches that can help navigate the Le
     
     <item>
       <title></title>
+      <link>/docs/mainsito/store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/store/</guid>
+      <description>Store#Welcome to the LDCRC&amp;rsquo;s store. Here, you will find merchandise, courses, certifications, and more.
+Merchandise#Support the LDCRC by purchasing some LDCRC-branded merchandise.
+ Redbubble  Shirts Stickers Hoodies   Teespring  Stickers Shirts Hoodies    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/docs/mainsito/trainings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/trainings/</guid>
-      <description>Trainings#Our members from time to time offer training sessions on a matter of their interest on the Ledgerback Frontier.
+      <description>Trainings#Our members from time to time offer training and online learning sessions on a matter of their interest on the Ledgerback Frontier.
 2022#Our expected training programs for 2022 are:
- Understanding the Ledgerback Frontier  Understanding the Ledgerback Frontier#TBA</description>
+ Exploring the Ledgerback Frontier  Exploring the Ledgerback Frontier#Four sessions in the training program will be offered in early 2022.
+You can find the sessions listed below.
+ Basics of Web3 Basics of Platform Cooperativism Basics of Research on Decentralized Web (DWeb) Blockchain Cooperatives: The intersection of Cooperativism and Web3  </description>
     </item>
     
     <item>
@@ -177,7 +200,7 @@ Approach#Here are a list of research approaches that can help navigate the Le
       <description>Volunteer Board#If you would like to help out, please refer to the volunteer board for tasks we need help with.
 If you are interested in helping, please add your name and Twitter handle to the table via the link above.
 Alternatively, you can fill out one of the roles below:
- Data Entry Video Editor Audio Editor Interviewer Article Summarizer  </description>
+ Data Entry Video Editor Audio Editor Article Summarizer Grant Writer Systems Administrator Research Assistant Software Developer Community Manager Communications manager Operations manager Event Organizer UI/UX Designer Social Media Manager  </description>
     </item>
     
   </channel>
