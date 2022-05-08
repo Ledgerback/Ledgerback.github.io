@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moyo on </title>
+    <link>/categories/moyo/</link>
+    <description>Recent content in Moyo on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/moyo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DAO Index updated to Version 0.9 and the release of the Alpha version of Moyo</title>
+      <link>/posts/daoindexv0.9_moyoalpha-2022_0507/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/daoindexv0.9_moyoalpha-2022_0507/</guid>
+      <description>DAO Index updated to Version 0.9 and the release of the Alpha version of Moyo#Charles Adjovu
+May 4
+
+    
+Photo by Dan Dimmock on Unsplash
+The DAO Index has been updated to Version 0.9. You can read about the update here.
+The alpha version of Moyo (formerly known as Laplace) has also been released. Please take a look here.</description>
+    </item>
+    
+  </channel>
+</rss>
