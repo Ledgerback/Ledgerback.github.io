@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social on </title>
+    <link>/categories/social/</link>
+    <description>Recent content in social on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter Sentiment Analysis of #daos</title>
+      <link>/posts/twitter_sentiment_analysis-2022_0414/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/twitter_sentiment_analysis-2022_0414/</guid>
+      <description>Twitter Sentiment Analysis of #daos#Analyzing the sentiment of tweets containing the hashtag &amp;lsquo;#daos&amp;rsquo;#Charles Adjovu
+Apr 14
+
+    I made some charts covering the sentiment of tweets using the hashtag #daos on Twitter. Additionally, I made a wordcloud of the tweets.
+Polarity is on a scale from 1 (most positive) to -1 (most negative), with 0 being neutral. The tweets were tweeted on 2022-04-13, from ~12:52 PM to ~1:28 PM PST.</description>
+    </item>
+    
+  </channel>
+</rss>

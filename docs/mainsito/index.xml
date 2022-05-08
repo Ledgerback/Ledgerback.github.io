@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ledgerback Research on </title>
+    <title>LDCRC on </title>
     <link>/docs/mainsito/</link>
-    <description>Recent content in Ledgerback Research on </description>
+    <description>Recent content in LDCRC on </description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/mainsito/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
@@ -11,8 +11,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/about/</guid>
-      <description>About#Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association coalescing a socially-aware expert community to advance knowledge in the decentralized web and related fields (i.e., the Ledgerback Frontier, the space between the current and the future ages of humanity).
-Our outputs from our work can include scientific publications, reports, blog posts, open educational resources, trainings, tools, methods, platforms, open-source software, open datasets, newsletters, demonstrations, and more.</description>
+      <description>About#About us#Founded in 2018, Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) member-led research nonprofit with a mission to shape the future for public benefit by investigating and appling emerging technologies while drawing attention towards human-centric futures.
+The LDCRC works across fundamental research, tool-building, community-building, commercialization, and education to achieve our mission.
+Ongoing Work#You can find out more about our ongoing work and writings in our Airtable base.</description>
     </item>
     
     <item>
@@ -21,7 +22,22 @@ Our outputs from our work can include scientific publications, reports, blog pos
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/citations-and-mentions/</guid>
-      <description>Citations &amp;amp; Mentions#Citations# Data Cooperatives, P2P Foundation Wiki  Mentions#October 2020#Journal Article | MDPI Sustainability#Calzada I., Platform and Data Co-Operatives amidst European Pandemic Citizenship. Sustainability 2020, 12, 8309.</description>
+      <description>Citations and Mentions#Blockchain and the Rise of the Internet Cooperative#Cited by:
+ Grounding Decentralised Technologies in Cooperative Principles: What Can &amp;lsquo;Decentralised Autonomous Organisations&amp;rsquo; (DAOs) and Platform Cooperatives Learn from Each Other?  Mentioned in:
+ What We Learned from Our Research Sprint on Cooperative Data Governance  LDCRC#Mentioned in:
+ Platform and Data Co-Operatives amidst European Pandemic Citizenship  A Preliminary Review of Blockchain in the Music Industry#Mentioned in:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/mainsito/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/community/</guid>
+      <description>Community#The LDCRC also supports and communicates about research and educational efforts on emerging technologies by offering office hours, a jobs board, awards, events, and media.
+Office Hours#LDCRC&amp;rsquo;s weekly, pro-bono Office Hours provide the opportunity to receive one-on-one help with finding existing research, strategy, and/or general questions. Office Hours are held via Jitsi or Sprout video conferencing.
+You can schedule a meeting here.
+Librarians#Contact Charles Adjovu for help on finding existing research on a topic on emerging technologies.</description>
     </item>
     
     <item>
@@ -30,18 +46,22 @@ Our outputs from our work can include scientific publications, reports, blog pos
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/donate/</guid>
-      <description>Donate to the Ledgerback Digital Commons Research Cooperative#Support the LDCRC&amp;rsquo;s work on:
- Educational content Research Tools Events Advocacy Trainings  How to donate#Credit/debit card#If you are an individual who would like to support our work, you can make a donation directly:
+      <description>Donate to the Ledgerback Digital Commons Research Cooperative (LDCRC)#Support the LDCRC&amp;rsquo;s work on:
+ Education Research Tools Community-building  How to donate#Credit/debit card#If you are an individual who would like to support our work, you can make a donation directly:
  Open Collective, Donorbox, or Every.org.  Direct Cryptocurrency Donation#You can directly donate cryptocurrency to the LDCRC on Every.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/events/</link>
+      <link>/docs/mainsito/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/events/</guid>
-      <description>Events#Ongoing Events# Monthly Meetings every first Saturday of the month on Discord covering updates on the LDCRC and members.  Past Events# Creating Educational Materials on Platform Cooperativism  </description>
+      <guid>/docs/mainsito/education/</guid>
+      <description>Education#We provide educational content and live sessions to help you make sense of emerging tehnologies, movements, and new imaginaries of the future.
+Syllabi#Find syllabi on various topics.
+Expect syllabi for our courses on Crypto &amp;amp; Cooperatives, Introduction to Data Cooperatives, and Introduction to Web3 to be added later to the site.
+Introduction to Platform Cooperatives#Version 0.3
+Lesson 1: Cooperative History and Enterprise Model#Cooperatives are people-centred enterprises owned, controlled and run by and for their members to realise their common economic, social, and cultural needs and aspirations.</description>
     </item>
     
     <item>
@@ -50,46 +70,29 @@ Our outputs from our work can include scientific publications, reports, blog pos
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/faqs/</guid>
-      <description>Frequntly Asked Questions (FAQs)#Answered#1. What is social technology?... Social technology is the hardware and software that determine how we organize and collectively live our lives. But it is also the the ideas, knowledge, economics, and institutions that drive culture and sustain societies. And it is the way this knowledge is embedded in the technologies we use.
- 2.</description>
+      <description>FAQs#Check out the FAQs table if you have any questions.
+If your question is not mentioned in the table, send an email about your question to ledgerback@gmail.com.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/flagship-project/</link>
+      <link>/docs/mainsito/fundraisers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/flagship-project/</guid>
-      <description>Projects#These member-led projects are currently under development:
- Observatory: An ecosystem mapping of people, events, language, concepts, databases, media, organizations, and more at the Ledgerback Frontier; Ledgerback Frontier Portal: A gateway to the Ledgerback Frontier (i.e., the Decentralized Web (DWeb) and related fields). The aim of the portal is to help people learn about and discover the Ledgerback Frontier through self-study resources (e.g., datasets, flashcards, quizzes); Bikestream: A project to encourage people to realize the value and benefits of managing their mobility data and micro-mobility vehicles, individually and collectively; DGov Score Framework: A project to develop a theoretical background on digital organizations and methods and tools for analyzing organizational concepts; Laplace: A project to develop an expertise network, knowledge graph, and content aggregator to encourage innovation and learning at the Ledgerback Frontier LedgerbackHub: a content library of thoughts and insights from members and friends on the Ledgerback Frontier; and Distroid: a monthly newsletter, with a focus on the convergence (connection and integration) of the decentralized web and related fields (Web3, Platform Cooperatives, etc.</description>
+      <guid>/docs/mainsito/fundraisers/</guid>
+      <description>Fundraisers#The LDCRC is currently running fundraisers for:
+ Fellowships: Fund a researcher to engage in independent research to help further our mission without perverse incentives Conference: Help us raise funds to run a conference covering a topic on emerging technologies, organizational forms, human-compatibel futures, independnet research, or another topic of interest, that can help connect the public with our members and other persons of interest Cloud Infrastructure: Help us pay for our cloud infrastructure costs so that we can provide more resources to our members to conduct their research Honors &amp;amp; Awards: Help us recognize individuals and organizations producing and sharing knowledge that helps us have a better understanding of the future  Additionally, the LDCRC plans to crowdfund for its projects.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/jobs/</link>
+      <link>/docs/mainsito/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/jobs/</guid>
-      <description>Jobs#Find jobs and other opportunities here from across the Ledgerback Frontier.
-You can find a list of job boards in the Observatory&amp;rsquo;s JobBoards table</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/journal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/journal/</guid>
-      <description>Journal#This page is under development.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/members/</guid>
-      <description>Members# Charles Adjovu  You can find Charles&amp;rsquo;s digital garden here   Jack Smye Marvin Roman Joseph Tobing Darick Velasco Joshua Davila  </description>
+      <guid>/docs/mainsito/library/</guid>
+      <description>Library#We’re aiming to assemble collections of academic and grey literature that would help people learn about emerging technologies and their implications for the future.
+We have two main libraries, our Zotero library (primarily research literature) and our Portal database(primarily a curated list of resources about a field at the Ledgerback Frontier to help you learn the basics).
+Portal#Currently, we have a curated list for Web3 that goes over the basics, and provides a critical review of claims in the Web3 field concerning decentralization, trustlessness, and other important concepts.</description>
     </item>
     
     <item>
@@ -98,62 +101,21 @@ You can find a list of job boards in the Observatory&amp;rsquo;s JobBoards table
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/membership/</guid>
-      <description>Membership#This page is under development as we update our Bylaws
-Become a member of the LDCRC today!#All members have a voice in shaping the priorities of the LDCRC, sharing views and electing the Board of Directors. When you join as a Member, your support will help us to continue our current activities and establish amazing new projects.
-Membership opens up the opportunity to deeply engage with the LDCRC in other ways; be the first to hear about our exciting projects, access exclusive information and resources, and take advantage of member rates on services and goods.</description>
+      <description>Membership#Become a lifetime member of the LDCRC for only $30.00. Our membership benefits include:
+  governance rights (voting power, right to stand in an election, and right to participate in decision-making),
+  access to member offers, such as discounts and special offers on goods and services (e.g., $5 discount on Distroid’s Paid Tier),
+  access to exclusives (e.g., content, tools, cloud infrastructure, and data),</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/office-hours/</link>
+      <link>/docs/mainsito/products-and-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/office-hours/</guid>
-      <description>Office Hours#LDCRC&amp;rsquo;s weekly, pro-bono Office Hours provide the opportunity to receive one-on-one help with finding existing research, strategy, and/or general questions. Office Hours are held via Jitsi or Sprout video conferencing.
-Librarians#Contact Charles Adjovu for help on finding existing research on a topic under the Ledgerback Frontier.
-Charles&amp;rsquo;s Hours#Saturday &amp;amp; Sunday, 3pm–10pm PST Max time per person: 30 mins
-Good questions for Charles:</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/outputs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/outputs/</guid>
-      <description>Outputs#Papers# Cooperative, Ledgerback, A Preliminary Review of Blockchain in the Music Industry (November 6, 2018). Available at SSRN: https://ssrn.com/abstract=3280838 or http://dx.doi.org/10.2139/ssrn.3280838  Musicians in the music industry are the primary content creators, and yet, have little to no control over their musical works after assigning their rights and management to third party intermediaries such as record labels, performance rights organizations, and publishers. Before the rise of file sharing platforms in the 1990s, this scenario was the norm for all musicians as record labels controlled nearly all facets of the music industry from musician funding to distribution and even royalty payment collection.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/portal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/portal/</guid>
-      <description>Ledgerback Frontier Portal#The Ledgerback Frontier Portal is a gateway to the thought spaces at the Ledgerback Frontier, the space between the present and future ages of humanity, exemplified by the Decentralized Web (DWeb) and related fields. The aim of the portal is to help people understand how people are thinking or conceptualizing these fields through self-study resources (primarily, through foundational reading lists).
-You can find the Frontier Portal’s repository for self-study resources on Web3 here.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/publications/</guid>
-      <description>Publications#Ongoing#We have three ongoing publications:
- LedgerbackHub, Distroid, and Ledgerback Podcast.  Our long-form writing is on the LedgerbackHub, but may also be found on Medium
-The Distroid newsletter is a monthly newsletter, with a focus on the convergence (connection and integration) of the decentralized web and related fields (Web3, Platform Cooperatives, etc.) (i.e., the fields of the Ledgerback Frontier).
-The LedgerbackHub is a content library of thoughts and insights from members and friends on the Ledgerback Frontier.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/research-advice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/research-advice/</guid>
-      <description>Research Advice#Some resources to help you get started with independent research and researching the Ledgerback Frontier.
-Guides# Open Scientist Handbook Internet Search Tips from Gwern.net Social Science Research Guide by Dr. Robert V. Labaree Introduction to College Research  Tools# Kausalflow tool directory  Also refer to the Ledgerback Scholar Toolbox and Guide (LSTG).</description>
+      <guid>/docs/mainsito/products-and-services/</guid>
+      <description>Products &amp;amp; Services#In addition to our research, we also provide assistance to public and private organizations and individuals to learn and research about emerging technologies and how to find human-centric futures.
+Products#Distroid Newsletter#The Distroid newsletter is a commentary and curated digest covering research, news, events, videos &amp;amp; podcasts, and more on emerging technologies and their implications for the future.
+The Distroid newsletter&amp;rsquo;s paid tier includes both commentary and a curated digest of news, research, events, tools, and more.</description>
     </item>
     
     <item>
@@ -162,33 +124,26 @@ Guides# Open Scientist Handbook Internet Search Tips from Gwern.net Social Sc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/research/</guid>
-      <description>Research#Here you will find requests for research and early-stage concepts, and some helpful approaches to researching the Ledgerback Frontier.
-Approach#Here are a list of research approaches that can help navigate the Ledgerback Frontier:
- Convergent Research Exploratory Research  Convergent Research# Convergence research is a means of solving vexing research problems, in particular, complex problems focusing on societal needs. It entails integrating knowledge, methods, and expertise from different disciplines and forming novel frameworks to catalyze scientific discovery and innovation.</description>
+      <description>Research#Papers#A Preliminary Review of Blockchain in the Music Industry (November 6, 2018)# Musicians in the music industry are the primary content creators, and yet, have little to no control over their musical works after assigning their rights and management to third party intermediaries such as record labels, performance rights organizations, and publishers. Before the rise of file sharing platforms in the 1990s, this scenario was the norm for all musicians as record labels controlled nearly all facets of the music industry from musician funding to distribution and even royalty payment collection.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/store/</link>
+      <link>/docs/mainsito/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/store/</guid>
-      <description>Store#Welcome to the LDCRC&amp;rsquo;s store. Here, you will find merchandise, courses, certifications, and more.
-Merchandise#Support the LDCRC by purchasing some LDCRC-branded merchandise.
- Redbubble  Shirts Stickers Hoodies   Teespring  Stickers Shirts Hoodies    </description>
+      <guid>/docs/mainsito/subscribe/</guid>
+      <description>Subscribe#Subscribe to the LDCRC&amp;rsquo;s Substack newsletter to get updates sent directly to your email.
+Subscribe</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/trainings/</link>
+      <link>/docs/mainsito/translation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/trainings/</guid>
-      <description>Trainings#Our members from time to time offer training and online learning sessions on a matter of their interest on the Ledgerback Frontier.
-2022#Our expected training programs for 2022 are:
- Exploring the Ledgerback Frontier  Exploring the Ledgerback Frontier#Four sessions in the training program will be offered in early 2022.
-You can find the sessions listed below.
- Basics of Web3 Basics of Platform Cooperativism Basics of Research on Decentralized Web (DWeb) Blockchain Cooperatives: The intersection of Cooperativism and Web3  </description>
+      <guid>/docs/mainsito/translation/</guid>
+      <description>Equitable Knowledge Transfer#Through our translation program, we will work on turning our research outputs the into products for the world to use, through various avenues (e.g., IP licensing, spin-offs). Through our translation program, we want to show that our research not only provides benefits to the public, but also has commercial value. Regarding the commercial value, we hope to translate our findings through equitable commercialization options such as cooperatives and trusts so that the value generated remains with the stakeholders.</description>
     </item>
     
     <item>
@@ -197,10 +152,10 @@ You can find the sessions listed below.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/volunteer/</guid>
-      <description>Volunteer Board#If you would like to help out, please refer to the volunteer board for tasks we need help with.
+      <description>Volunteer#If you would like to help out, please refer to the volunteer board for tasks we need help with.
 If you are interested in helping, please add your name and Twitter handle to the table via the link above.
 Alternatively, you can fill out one of the roles below:
- Data Entry Video Editor Audio Editor Article Summarizer Grant Writer Systems Administrator Research Assistant Software Developer Community Manager Communications manager Operations manager Event Organizer UI/UX Designer Social Media Manager  </description>
+ Data Entry Content Editor Article Summarizer Grant Writer Event Organizer  Additionally, please consider becoming a curator for Distroid.</description>
     </item>
     
   </channel>
