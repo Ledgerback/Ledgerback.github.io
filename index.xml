@@ -127,7 +127,14 @@ If you would like to add a position to the Jobs Board, please fill out this form
       
       <guid>/docs/mainsito/contact-us/</guid>
       <description>Contact Us#Email
-Discord</description>
+Discord
+ Follow LDCRC#Website: Find out about the LDCRC
+Twitter: Follow and chat with us on Twitter
+Anchor Podcast: Listen to our podcast episodes covering various topics
+Every.org: Donate to the LDCRC
+Speakerdeck: Find our slidedecks
+GitHub: Find our software and tools
+Medium: Find our insights</description>
     </item>
     
     <item>
@@ -181,7 +188,7 @@ Portal#Currently, we have a curated list for Web3 that goes over the basics, 
       
       <guid>/docs/mainsito/membership/</guid>
       <description>Join our Flock#We are a global community of curiosity-driven change-makers (&amp;ldquo;storks&amp;rdquo;) who share knowledge, time, values and ideas to help steer humanity towards a future that benefits everyone. Together, we empower people to access, use and build upon knowledge from the frontiers for positive outcomes.
-Our community is for anyone who is interested in exploring the frontiers and wants to make a positive impact on the world.</description>
+Our community is for anyone (academics, engineers, lifelong learners, entrepeneurs, citizens, independent researchers, designers, artists, etc.) who is interested in exploring the frontiers and wants to make a positive impact on the world, to connect and collaborate with each other.</description>
     </item>
     
     <item>
@@ -210,7 +217,7 @@ Office Hours#LDCRC&amp;rsquo;s weekly, pro-bono Office Hours provide the oppo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/products-and-services/</guid>
-      <description>Hire us!#In addition to our research, we also provide assistance to public and private organizations and individuals to learn and research the frontiers.
+      <description>Hire us!#In addition to our research, we also provide assistance to public and private organizations and individuals to explore the frontiers.
 Products#Distroid Newsletter#The Distroid newsletter is a commentary and curated digest covering research, news, events, videos &amp;amp; podcasts, and more on emerging technologies and their implications for the future.
 The Distroid newsletter&amp;rsquo;s paid tier includes both commentary and a curated digest of news, research, events, tools, and more.</description>
     </item>
@@ -221,7 +228,7 @@ The Distroid newsletter&amp;rsquo;s paid tier includes both commentary and a cur
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/research/</guid>
-      <description>Curiosity-driven exploration through a human-centric perspective#Research pursuits at LDCRC are highly exploratory, often venturing into the unknown. Members are encouraged to engage in collaborative and self-directed research through projects that aid our understanding of the frontiers.
+      <description>Curiosity-driven exploration through a human-centric perspective#Research pursuits at LDCRC are highly exploratory, often venturing into the unknown. Members are encouraged to engage in collaborative and curiosity-driven research through projects that aid our understanding of the frontiers.
 Themes#Themes are institute-wide research topics that draw together large networks of researchers from the LDCRC and beyond.
 Our themes include:
  Data Stewardship Digital Organizations Governance and Coordination Digital Identity Metascience Future of Work Sustainability Complex Intelligence Platform Economy Tools for Thought Social Enterprises Ethical Futures Emerging Markets Meta-crisis Emerging Technologies  Papers#A Preliminary Review of Blockchain in the Music Industry (November 6, 2018)# Musicians in the music industry are the primary content creators, and yet, have little to no control over their musical works after assigning their rights and management to third party intermediaries such as record labels, performance rights organizations, and publishers.</description>
@@ -246,6 +253,15 @@ In our engagements, we identify knowledge from the frontiers that are most relev
       <description>Help wanted#We are looking for volunteers of all backgrounds to help investigate and apply emerging technologies and draw attention towards human-centric futures.
 To volunteer for a project below, please complete this form.
 Active projects looking for volunteers#Distroid# Curator Summarizer  Marketer Partnerships Editor  Distributed Governance Score Framework#DAO Index# Research Assistant DAO Governance Design and Disclosure Ratings Assistant Marketer Partnerships Content Writer  Bikestream# Data Scientist Raspberry Pi (and potentially other hardware) Developer Partnerships Fundraiser Content Writer Research Assistant  Portal# Research Assistant Curator  Honors &amp;amp; Awards# Graphic Designer  Observatory# Data Entry Marketer Partnerships Data Engineer Front-end developer  Speaker Series# Events Organizer Assistant Content Writer Graphic Designer  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/mainsito/wiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/wiki/</guid>
+      <description>Wiki#Please refer to our wiki for more information on our projects and the LDCRC in general.</description>
     </item>
     
     <item>
