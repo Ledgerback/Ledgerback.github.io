@@ -92,18 +92,20 @@ People#The first preview of the basic People of the Ledgerback Frontier direc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/about/</guid>
-      <description>About#About us#Founded in 2018, Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) member-led research nonprofit with a mission to shape the future for public benefit by investigating and appling emerging technologies while drawing attention towards human-centric futures.
-The LDCRC works across fundamental research, tool-building, community-building, commercialization, and education to achieve our mission.
-Ongoing Work#You can find out more about our ongoing work and writings in our Airtable base.</description>
+      <description>About#About us#The LDCRC provides the infrastructure for community-led intiatives to learn, connect, experiment, and build at the frontiers.
+Strategic Plan and Institutional Model#The Networked-Cognitive Cooperative Institute (NC2I), further described below, is an institutional model and strategic plan for the LDCRC. For more information on the model, strategic plan, and background readings, please read the NC2I Google Doc. The NC2I is still a work-in-progress so any comments or other feedback is much appreciated.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/mainsito/blog/</link>
+      <link>/docs/mainsito/career-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/mainsito/blog/</guid>
-      <description>Ledgerback Hub#Find all of our writings on the Ledgerback Hub.</description>
+      <guid>/docs/mainsito/career-development/</guid>
+      <description>Career Development#Jobs Board#Our jobs board covers opportunities in industry, academia, government, and civil society that touch upon the frontiers.
+You can find the Jobs Board table in gallery format here.
+If you prefer a web-based interface, please take a look here.
+If you would like to add a position to the Jobs Board, please fill out this form. Alternatively, if you are looking for talent, please send an email to ledgerback@gmail.</description>
     </item>
     
     <item>
@@ -116,18 +118,6 @@ Ongoing Work#You can find out more about our ongoing work and writings in our
  Grounding Decentralised Technologies in Cooperative Principles: What Can &amp;lsquo;Decentralised Autonomous Organisations&amp;rsquo; (DAOs) and Platform Cooperatives Learn from Each Other?  Mentioned in:
  What We Learned from Our Research Sprint on Cooperative Data Governance  LDCRC#Mentioned in:
  Platform and Data Co-Operatives amidst European Pandemic Citizenship  A Preliminary Review of Blockchain in the Music Industry#Mentioned in:</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/community/</guid>
-      <description>Community#The LDCRC also supports and communicates about research and educational efforts on emerging technologies by offering office hours, a jobs board, awards, events, and media.
-Office Hours#LDCRC&amp;rsquo;s weekly, pro-bono Office Hours provide the opportunity to receive one-on-one help with finding existing research, strategy, and/or general questions. Office Hours are held via Jitsi or Sprout video conferencing.
-You can schedule a meeting here.
-Librarians#Contact Charles Adjovu for help on finding existing research on a topic on emerging technologies.</description>
     </item>
     
     <item>
@@ -147,7 +137,7 @@ Discord</description>
       
       <guid>/docs/mainsito/donate/</guid>
       <description>Donate to the Ledgerback Digital Commons Research Cooperative (LDCRC)#Support the LDCRC&amp;rsquo;s work on:
- Education Research Tools Community-building  How to donate#Credit/debit card#If you are an individual who would like to support our work, you can make a donation directly:
+ Education Research Tool-building Community-building  How to donate#Credit/debit card#If you are an individual who would like to support our work, you can make a donation directly:
  Open Collective, Donorbox, or Every.org.  Direct Cryptocurrency Donation#You can directly donate cryptocurrency to the LDCRC on Every.</description>
     </item>
     
@@ -157,11 +147,9 @@ Discord</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/education/</guid>
-      <description>Education#We provide educational content and live sessions to help you make sense of emerging tehnologies, movements, and new imaginaries of the future.
-Syllabi#Find syllabi on various topics.
-Expect syllabi for our courses on Crypto &amp;amp; Cooperatives, Introduction to Data Cooperatives, and Introduction to Web3 to be added later to the site.
-Introduction to Platform Cooperatives#Version 0.3
-Lesson 1: Cooperative History and Enterprise Model#Cooperatives are people-centred enterprises owned, controlled and run by and for their members to realise their common economic, social, and cultural needs and aspirations.</description>
+      <description>Come learn with us!#Join LDCRC for a transformative learning experience on the frontiers of science, technology, and society.
+Our resources bring the frontiers of science, technology, and society to curiosity-driven individuals.
+Explore Learning Experiences at the Frontiers with Moyo#If you are new to the frontiers, please check out Moyo to find beginner to advanced courses covering various topics on the frontiers, such as Decentralized Autonomous Organizations, Blockchain, and Platform Cooperatives.</description>
     </item>
     
     <item>
@@ -176,22 +164,13 @@ If your question is not mentioned in the table, send an email about your questio
     
     <item>
       <title></title>
-      <link>/docs/mainsito/fundraisers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/fundraisers/</guid>
-      <description>Fundraisers#The LDCRC is currently running fundraisers for:
- Fellowships: Fund a researcher to engage in independent research to help further our mission without perverse incentives Conference: Help us raise funds to run a conference covering a topic on emerging technologies, organizational forms, human-compatibel futures, independnet research, or another topic of interest, that can help connect the public with our members and other persons of interest Cloud Infrastructure: Help us pay for our cloud infrastructure costs so that we can provide more resources to our members to conduct their research Honors &amp;amp; Awards: Help us recognize individuals and organizations producing and sharing knowledge that helps us have a better understanding of the future  Additionally, the LDCRC plans to crowdfund for its projects.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/docs/mainsito/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/library/</guid>
-      <description>Library#We’re aiming to assemble collections of academic and grey literature that would help people learn about emerging technologies and their implications for the future.
-We have two main libraries, our Zotero library (primarily research literature) and our Portal database(primarily a curated list of resources about a field at the Ledgerback Frontier to help you learn the basics).
+      <description>Library#We’re aiming to assemble collections of academic and grey literature that can support researchers and citizens learn and investigate the frontiers.
+We have two main databases, our Zotero library (primarily research literature) and our Portal database (primarily a recommended list of resources about a topic under the frontiers).
+Additionally, we also curate producitivty tips for research and knowledge work in general.
 Portal#Currently, we have a curated list for Web3 that goes over the basics, and provides a critical review of claims in the Web3 field concerning decentralization, trustlessness, and other important concepts.</description>
     </item>
     
@@ -201,10 +180,28 @@ Portal#Currently, we have a curated list for Web3 that goes over the basics, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/membership/</guid>
-      <description>Membership#Become a lifetime member of the LDCRC for only $30.00. Our membership benefits include:
-  governance rights (voting power, right to stand in an election, and right to participate in decision-making),
-  access to member offers, such as discounts and special offers on goods and services (e.g., $5 discount on Distroid’s Paid Tier),
-  access to exclusives (e.g., content, tools, cloud infrastructure, and data),</description>
+      <description>Join our Flock#We are a global community of curiosity-driven change-makers (&amp;ldquo;storks&amp;rdquo;) who share knowledge, time, values and ideas to help steer humanity towards a future that benefits everyone. Together, we empower people to access, use and build upon knowledge from the frontiers for positive outcomes.
+Our community is for anyone who is interested in exploring the frontiers and wants to make a positive impact on the world.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/mainsito/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/news/</guid>
+      <description>Subscribe#Subscribe to the LDCRC&amp;rsquo;s Substack newsletter to get updates sent directly to your email.
+Subscribe</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/mainsito/outreach-and-engagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/mainsito/outreach-and-engagement/</guid>
+      <description>Outreach and Engagement#The LDCRC also works on community-building efforts, primarily outreach and public engagement, to inform the public about our pioneering research, and disoveries from the frontiers, assistance in career development, and acknowledging intellectual work (often untraditional work).
+Office Hours#LDCRC&amp;rsquo;s weekly, pro-bono Office Hours provide the opportunity to receive one-on-one help with finding existing research, strategy, and/or general questions. Office Hours are held via Jitsi or Sprout video conferencing.</description>
     </item>
     
     <item>
@@ -213,7 +210,7 @@ Portal#Currently, we have a curated list for Web3 that goes over the basics, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/products-and-services/</guid>
-      <description>Products &amp;amp; Services#In addition to our research, we also provide assistance to public and private organizations and individuals to learn and research about emerging technologies and how to find human-centric futures.
+      <description>Hire us!#In addition to our research, we also provide assistance to public and private organizations and individuals to learn and research the frontiers.
 Products#Distroid Newsletter#The Distroid newsletter is a commentary and curated digest covering research, news, events, videos &amp;amp; podcasts, and more on emerging technologies and their implications for the future.
 The Distroid newsletter&amp;rsquo;s paid tier includes both commentary and a curated digest of news, research, events, tools, and more.</description>
     </item>
@@ -224,17 +221,10 @@ The Distroid newsletter&amp;rsquo;s paid tier includes both commentary and a cur
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/research/</guid>
-      <description>Research#Papers#A Preliminary Review of Blockchain in the Music Industry (November 6, 2018)# Musicians in the music industry are the primary content creators, and yet, have little to no control over their musical works after assigning their rights and management to third party intermediaries such as record labels, performance rights organizations, and publishers. Before the rise of file sharing platforms in the 1990s, this scenario was the norm for all musicians as record labels controlled nearly all facets of the music industry from musician funding to distribution and even royalty payment collection.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/mainsito/subscribe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mainsito/subscribe/</guid>
-      <description>Subscribe#Subscribe to the LDCRC&amp;rsquo;s Substack newsletter to get updates sent directly to your email.
-Subscribe</description>
+      <description>Curiosity-driven exploration through a human-centric perspective#Research pursuits at LDCRC are highly exploratory, often venturing into the unknown. Members are encouraged to engage in collaborative and self-directed research through projects that aid our understanding of the frontiers.
+Themes#Themes are institute-wide research topics that draw together large networks of researchers from the LDCRC and beyond.
+Our themes include:
+ Data Stewardship Digital Organizations Governance and Coordination Digital Identity Metascience Future of Work Sustainability Complex Intelligence Platform Economy Tools for Thought Social Enterprises Ethical Futures Emerging Markets Meta-crisis Emerging Technologies  Papers#A Preliminary Review of Blockchain in the Music Industry (November 6, 2018)# Musicians in the music industry are the primary content creators, and yet, have little to no control over their musical works after assigning their rights and management to third party intermediaries such as record labels, performance rights organizations, and publishers.</description>
     </item>
     
     <item>
@@ -243,7 +233,8 @@ Subscribe</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/mainsito/translation/</guid>
-      <description>Equitable Knowledge Transfer#Through our translation program, we will work on turning our research outputs the into products for the world to use, through various avenues (e.g., IP licensing, spin-offs). Through our translation program, we want to show that our research not only provides benefits to the public, but also has commercial value. Regarding the commercial value, we hope to translate our findings through equitable commercialization options such as cooperatives and trusts so that the value generated remains with the stakeholders.</description>
+      <description>Translating research on the frontiers into actionable insights#The LDCRC&amp;rsquo;s Translation Office helps organizations and individuals in industry and the public understand the frontiers and how to use the knowledge generated from the frontiers in their own projects. These partnerships help us better understand how knowledge from the frontiers can meaningfully impact the broader world.
+In our engagements, we identify knowledge from the frontiers that are most relevant to particular challenges and develop strategies to translate and disseminate knowledge accordingly.</description>
     </item>
     
     <item>
@@ -254,7 +245,7 @@ Subscribe</description>
       <guid>/docs/mainsito/volunteer/</guid>
       <description>Help wanted#We are looking for volunteers of all backgrounds to help investigate and apply emerging technologies and draw attention towards human-centric futures.
 To volunteer for a project below, please complete this form.
-Active projects looking for volunteers#Distroid# Curator Summarizer  Marketer Partnerships  Distributed Governance Score Framework#DAO Index# Research Assistant DAO Governance Design and Disclosure Ratings Assistant Marketer Partnerships Content Writer  Bikestream# Data Scientist Raspberry Pi (and potentially other hardware) Developer Partnerships Fundraiser Content Writer Research Assistant  Portal# Research Assistant Curator  Honors &amp;amp; Awards# Graphic Designer  Observatory# Data Entry Marketer Partnerships Data Engineer Front-end developer  Speaker Series# Events Organizer Assistant Content Writer Graphic Designer  </description>
+Active projects looking for volunteers#Distroid# Curator Summarizer  Marketer Partnerships Editor  Distributed Governance Score Framework#DAO Index# Research Assistant DAO Governance Design and Disclosure Ratings Assistant Marketer Partnerships Content Writer  Bikestream# Data Scientist Raspberry Pi (and potentially other hardware) Developer Partnerships Fundraiser Content Writer Research Assistant  Portal# Research Assistant Curator  Honors &amp;amp; Awards# Graphic Designer  Observatory# Data Entry Marketer Partnerships Data Engineer Front-end developer  Speaker Series# Events Organizer Assistant Content Writer Graphic Designer  </description>
     </item>
     
     <item>
